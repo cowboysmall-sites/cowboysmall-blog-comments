@@ -1,2 +1,2 @@
 # blog-comments
-A repository to house comments for blog.cowboysmall.com
+A repository to house comments across cowboysmall.com
